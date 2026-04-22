@@ -459,8 +459,3 @@ Primary email: nurwanreza79@gmail.com
 Optional institutional email: nurwan.reza@ui.ac.id
 
 For academic correspondence related to the manuscript, please use the corresponding author information reported in the paper.
-## 12. Contact
-Nurwan Reza Fachrurrozi
-Email: nurwan.reza@ui.ac.id
-nurwwanreza79@gmail.com
-For academic correspondence related to the manuscript, please use the corresponding author information reported in the paper.
