@@ -136,7 +136,7 @@ For the current manuscript package, `lionel.mp4` is used as the main demo video 
 ### 6.1 Clone the repository
 
 ```bash
-git clone https://github.com/nurwanreza-star/savic_multimodal.git
+git clone https://github.com/nurwanreza79/savic_multimodal
 cd savic_multimodal
 ```
 
