@@ -453,4 +453,8 @@ A ready-to-update citation file is provided in `CITATION.cff`.
 
 ## 12. Contact
 
+Nurwan Reza Fachrurrozi
+Primary email: nurwanreza79@gmail.com
+Optional institutional email: nurwan.reza@ui.ac.id
+
 For academic correspondence related to the manuscript, please use the corresponding author information reported in the paper.
